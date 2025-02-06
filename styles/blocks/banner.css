@@ -1,0 +1,45 @@
+.banner {
+    padding: 18px 0;
+    background: var(--hijau-nyobain);
+    margin-top: 362px;
+}
+
+.banner__container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.banner__client {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.banner__list {
+    display: flex;
+    position: relative;
+}
+
+.banner__item{
+    position: relative; 
+    margin-left: -20px;
+}
+
+.banner__item:first-child  {
+     margin-left: 0;
+}
+
+.tags__list {
+    display: flex;
+    gap: 12px;
+}
+
+.tags__item {
+    padding: 12px 32px;
+    backdrop-filter: blur(48px);
+    background: rgba(255, 255, 255, 0.16);
+    border: 1px solid rgba(0, 0, 0, 0.08);
+    border-radius: 28px;
+}
+
