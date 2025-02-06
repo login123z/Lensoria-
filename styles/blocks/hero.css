@@ -1,0 +1,30 @@
+.hero__block {
+    width: 837px;
+    margin-top: 154px;
+    margin-bottom: 127px;
+}
+
+.hero__heading {
+    margin-bottom: 40px;
+}
+
+.hero__button {
+    display: flex;
+}
+
+.hero__title {
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 112%;
+    color: var(--black);
+    margin-bottom: 12px;
+}
+
+.hero__text {
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 143%;
+    color: var(--black);
+}
