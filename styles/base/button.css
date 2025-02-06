@@ -17,3 +17,11 @@
     background-color: var(--black);
     color: var(--hijau-nyobain);
 }
+
+.btn-3 {
+    position: relative;
+    top: 55px;
+    left: 24px;
+}
+
+
